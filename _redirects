@@ -4,6 +4,7 @@
 /repo https://github.com/ocsp/uri-shortener-netlify/blob/master/_redirects/
 /all https://raw.githubusercontent.com/ocsp/uri-shortener-netlify/master/_redirects
 /nmsl https://nmsl.rbq.one
+/hina https://camo.githubusercontent.com/28488a0a83b79405d15970fa481e5095584a71d1/68747470733a2f2f616530312e616c6963646e2e636f6d2f6b662f483833653232626436363736643466356461343666393531656534333062323035772e706e67
 
 
 
@@ -99,4 +100,3 @@
 
 
 
-/*  https://github.com/OCSP
